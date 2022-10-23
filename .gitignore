@@ -1,0 +1,12 @@
+node_modules/
+logs
+*.log
+npm-debug.log
+.vscode/*
+.npm
+.eslintcache
+.env
+.cache
+coverage
+lib-cov
+.DS_Store

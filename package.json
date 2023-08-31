@@ -1,0 +1,27 @@
+{
+  "name": "bincol-tgbot",
+  "version": "0.0.1",
+  "description": "Telegram bot that makes it easier to get information from the bincol.ru website. It parses the data of the electronic schedule and notifies about changes in it",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HanSaloZu/bincol-tgbot.git"
+  },
+  "keywords": [
+    "bot",
+    "telegram",
+    "telegram-bot",
+    "nodejs",
+    "parser",
+    "web-scraper"
+  ],
+  "author": "HanSaloZu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HanSaloZu/bincol-tgbot/issues"
+  },
+  "homepage": "https://github.com/HanSaloZu/bincol-tgbot#readme"
+}
